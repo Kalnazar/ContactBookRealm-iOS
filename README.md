@@ -1,5 +1,7 @@
 # ContactBookRealm-iOS
 
+Storyboard. Contact book using the "Realm" database framework. In terms of functionality, there is adding and deleting a contact, and when you add a contact, you specify its gender using UIPickerView and the corresponding picture (male or female) appears. UITableView, UITableViewCell(Custom), UIPickerView, UIImage, TextField and etc.
+
 ### Screenshots
 
 <img width="581" alt="image" src="https://user-images.githubusercontent.com/102688997/161763045-27a8e8f6-2b15-477e-9746-a286a834e2db.png">
